@@ -1,0 +1,10 @@
+<BeginThoNV test="ThoNV">
+    <Truong NameTruong="BK Da Nang" DiaChi="54 NLB">
+        <Lop Lop1="1">18CDT1</Lop>
+        <Lop Lop1="2">Lop Truong</Lop>
+        <ChucDanh>Lop Truong</ChucDanh>
+    </Truong>
+    <ThongTin Tien="136 ty">
+        <Ten>ThoNV</Ten>
+    </ThongTin>
+</BeginThoNV>

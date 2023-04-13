@@ -1,0 +1,5 @@
+<BeginThoNV test="ThoNV">
+    <ThongTin Tien="Nguyen Van Tho">
+        <Ten>23</Ten>
+    </ThongTin>
+</BeginThoNV>

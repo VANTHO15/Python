@@ -1,0 +1,5 @@
+<BeginThoNV test="ThoNV">
+    <ThongTin Tien="NAME_THO">
+        <Ten>TUOI_THO</Ten>
+    </ThongTin>
+</BeginThoNV>

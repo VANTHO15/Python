@@ -1,2 +1,2 @@
 # Python
-Bài Python XHSC mãi đỉnh
+Bài Python ThoNV
